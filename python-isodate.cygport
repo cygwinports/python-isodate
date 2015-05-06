@@ -1,7 +1,7 @@
 inherit python-distutils
 
 NAME="python-isodate"
-VERSION=0.4.9
+VERSION=0.5.1
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python ISO-8601 date/time parser"
@@ -10,3 +10,5 @@ parsing. The implementation follows ISO8601:2004 standard, and implements only
 date/time representations mentioned in the standard. If something is not
 mentioned there, then it is treated as non existent, and not as an allowed
 option."
+
+ARCH=noarch

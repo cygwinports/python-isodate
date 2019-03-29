@@ -1,7 +1,7 @@
 inherit python-wheel
 
 NAME="python-isodate"
-VERSION=0.5.4
+VERSION=0.6.0
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python ISO-8601 date/time parser"
